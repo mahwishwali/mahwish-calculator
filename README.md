@@ -1,1 +1,1 @@
-# mahwish-calculator
+# calculator
